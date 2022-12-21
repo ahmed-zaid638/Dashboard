@@ -2,7 +2,7 @@
 
 ## Functionalities 
 - Dashboard with user info 
-- have more than one section settings / proile / projects / courses
+- have more than one section settings / profile / projects / courses
 - search bar 
 - Toogle switches
 - responsive with all devices
